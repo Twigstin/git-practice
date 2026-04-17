@@ -1,2 +1,4 @@
 Green is a color
 Blue + Yellow = Green
+
+the background color is green
